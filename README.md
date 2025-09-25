@@ -20,8 +20,11 @@ Local Setup
 1. Clone the repo
    `git clone https://github.com/arvinalejandro/tiny-records.git`
 
-2. Setup (Backend / Frontend)
+2. Install Dependencies on root directory
+    `npm i`
+
+3. Setup (Backend / Frontend)
    `npm run install-all`
 
-3. Run Application Concurrent(Backend/Frontend)
+4. Run Application Concurrently(Backend/Frontend)
    `npm run dev`
